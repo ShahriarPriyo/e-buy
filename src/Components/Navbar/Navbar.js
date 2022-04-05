@@ -5,6 +5,9 @@ const Navbar = () => {
     return (
         <div>
             <nav>
+                {/* <div>
+                    <span className='logo-name'>e-BUY</span>
+                </div> */}
                 <div>
                     <Link className='link' to="/home">Home</Link>
                     <Link className='link' to="/reviews">Reviews</Link>

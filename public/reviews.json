@@ -1,0 +1,85 @@
+[
+    {
+        "id": "hk12",
+        "username": "JennyBz",
+        "comment": "This has been my favorite perfume for years now. I love the light summery scent, the beautiful bottle and the fact that it seems to change scent throughout the day.",
+        "img": "https://randomuser.me/api/portraits/med/men/14.jpg",
+        "rating": "5",
+        "date": "21-2-2021"
+    },
+    {
+        "id": "hk13",
+        "username": "LauLau215",
+        "comment": "I've had this since 2003 I believe when it launched and it's sooooo good! I switch up all the time but this along with a few other Chanel's are always in my rotation. Slightly vanilla, pink peppe",
+        "img": "https://randomuser.me/api/portraits/med/men/15.jpg",
+        "rating": "4",
+        "date": "21-2-2021"
+    },
+    {
+        "id": "hk14",
+        "username": "mhubbard",
+        "comment": "I smelled this on other people, and finally had to have it. It's nice but very, very strong. It is quite sweet to my taste. I suggest you spray once in the air, and walk under it. ",
+        "img": "https://randomuser.me/api/portraits/med/men/16.jpg",
+        "rating": "5",
+        "date": "23-2-2021"
+    },
+    {
+        "id": "hk15",
+        "username": "LillyElly",
+        "comment": "This girl has been with me since she came out. Love at first sight. She is the little sister of Madimoiselle and Gabrielle, and she is supposed to stand out, with her round bottle and young floral",
+        "img": "https://randomuser.me/api/portraits/med/men/17.jpg",
+        "rating": "5",
+        "date": "24-4-2021"
+    },
+    {
+        "id": "hk16",
+        "username": "indiawilkes",
+        "comment": "Chanel has some beauties that are worth the high prices, but this one smells like a simple Avon offering targeted to middle school girls for sock hops on Friday night. ",
+        "img": "https://randomuser.me/api/portraits/med/men/18.jpg",
+        "rating": "3",
+        "date": "24-4-2021"
+    },
+    {
+        "id": "hk17",
+        "username": "Sparklingbutterfly444",
+        "comment": "Hello MUA, Let's talk about my signature Perfume that I absolutely LOVE and get LOTS of comments on everywhere I go. I've been a faithful Chanel Chance Perfume wearer for 10 years, maybe more. ",
+        "img": "https://randomuser.me/api/portraits/med/men/20.jpg",
+        "rating": "5",
+        "date": "24-4-2021"
+    }, {
+        "id": "hk18",
+        "username": "vgl999",
+        "comment": "Love! It's a fresh, summery scent. I use it all year, though.",
+        "img": "https://randomuser.me/api/portraits/med/men/19.jpg",
+        "rating": "5",
+        "date": "24-4-2021"
+    }, {
+        "id": "hk19",
+        "username": "Mlennon9",
+        "comment": "My favorite perfume. So beautiful, flowery, and rich. I really love this perfume. I get a lot of compliments when wearing it. It's very long lasting and wears beautifully.        ",
+        "img": "https://randomuser.me/api/portraits/med/men/21.jpg",
+        "rating": "5",
+        "date": "24-4-2021"
+    }, {
+        "id": "hk20",
+        "username": "MariaBraun",
+        "comment": "I am a huge fan of Chanel fragrances that work so well with my body chemistry. I could not live without my old times favourite Allure closely followed by Coco Noir, Coco Mademoiselle and No.5",
+        "img": "https://randomuser.me/api/portraits/med/men/22.jpg",
+        "rating": "5",
+        "date": "24-4-2021"
+    },{
+        "id": "hk21",
+        "username": "WestCoastRose",
+        "comment": "I always receive compliments when I spray this on. What I like most is that it last all day!!!",
+        "img": "https://randomuser.me/api/portraits/med/men/23.jpg",
+        "rating": "5",
+        "date": "24-4-2021"
+    }, {
+        "id": "hk22",
+        "username": "kkTwenkle",
+        "comment": "Hello MUA, Let's talk about my signature Perfume that I absolutely LOVE and get LOTS of comments on everywhere I go. I've been a faithful Chanel Chance Perfume wearer for 10 years, maybe more. ",
+        "img": "https://randomuser.me/api/portraits/med/men/24.jpg",
+        "rating": "5",
+        "date": "24-4-2021"
+    }
+]

@@ -8,6 +8,7 @@ import Reviews from './Components/Reviews/Reviews'
 import Dashboard from './Components/Dashboard/Dashboard'
 import Blogs from './Components/Blogs/Blogs'
 import About from './Components/About/About'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Navbar></Navbar>
       </div>
       <Routes>
+        <Route path='/' element={<Home />}></Route>
         <Route path='/home' element={<Home />}></Route>
         <Route path='/reviews' element={<Reviews />}></Route>
         <Route path='/dashboard' element={<Dashboard />}></Route>
